@@ -1,0 +1,36 @@
+Connecting to LEON_501
+........................
+WiFi connected
+Server started @ 
+192.168.3.95
+To control GPIO, open your web browser.
+To set GPIO 2 high, type:
+192.168.3.95/gpio/1
+To set GPIO 2 low, type:
+192.168.3.95/gpio/0
+To toggle GPIO 2, type:
+192.168.3.95/gpio/4
+GET /gpio/4 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
+GET /gpio/0 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
+GET /gpio/1 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
+GET /gpio/4 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
+GET /gpio/1 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
+GET /gpio/0 HTTP/1.1
+Client disonnected
+GET /favicon.ico HTTP/1.1
+invalid request
