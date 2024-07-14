@@ -1,0 +1,12 @@
+接线方法
+
+模块	USB转TTL
+3.3V	3.3V
+RST	3.3V
+EN	3.3V
+IO2	3.3V
+GND	GND
+IO0	GND
+TX	RX
+RX	TX
+
